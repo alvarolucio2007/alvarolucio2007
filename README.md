@@ -1,7 +1,4 @@
 ## Hi there/ Olá / Hallöchen 👋
-
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=tokyonight)
-
 ## 🇺🇸 English
 I am a Backend Developer in training, graduating in Software Engineering, focused on **Python**, and trying other languages, such as **Java**, and in the future, **Typescript** and **Go**.
 - 🛠 **Environment:** Pop!_OS Linux 24.04 + LazyVim
@@ -20,7 +17,8 @@ Ich bin ein angehender Backend-Entwickler sowie Software Engineering Student, mi
 - 🔭 **Ich arbeite an:** Persönlichen CRUD-Projekten und Uni-Projekten
 - ⚡ **Fun Fact:** Ich vermag alles durch den, der mich mächtig macht, Christus.
 
-![Metrics](https://metrics.lecoq.io/SEU_USER)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Lazyvim](https://img.shields.io/badge/LazyVim-2E7DE9.svg?style=for-the-badge&logo=lazyvim&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
