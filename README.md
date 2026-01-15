@@ -20,3 +20,4 @@ Ich bin ein angehender Backend-Entwickler sowie Software Engineering Student, mi
 - 🔭 **Ich arbeite an:** Persönlichen CRUD-Projekten und Uni-Projekten
 - ⚡ **Fun Fact:** Ich vermag alles durch den, der mich mächtig macht, Christus.
 
+![Stats](https://github-readme-stats.vercel.app/api?username=alvarolucio2007&show_icons=true&theme=tokyonight)
