@@ -22,5 +22,5 @@ Ich bin ein angehender Backend-Entwickler sowie Software Engineering Student, mi
 
 ![Metrics](https://metrics.lecoq.io/SEU_USER)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Lazyvim](https://img.shields.io/badge/LazyVim-2E7DE9.svg?style=for-the-badge&logo=lazyvim&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
