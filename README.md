@@ -1,6 +1,6 @@
 ## Hi there/ Olá / Hallöchen 👋
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=tokyonight)
 
 ## 🇺🇸 English
 I am a Backend Developer in training, graduating in Software Engineering, focused on **Python**, and trying other languages, such as **Java**, and in the future, **Typescript** and **Go**.
@@ -20,4 +20,7 @@ Ich bin ein angehender Backend-Entwickler sowie Software Engineering Student, mi
 - 🔭 **Ich arbeite an:** Persönlichen CRUD-Projekten und Uni-Projekten
 - ⚡ **Fun Fact:** Ich vermag alles durch den, der mich mächtig macht, Christus.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alvarolucio2007&show_icons=true&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/SEU_USER)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
