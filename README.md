@@ -50,7 +50,7 @@ Ich bin **Software Engineering Student** und angehender **Backend-Entwickler**. 
 
 #### 🔧 Setup & OS
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)]
+[!Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)]
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![LazyVim](https://img.shields.io/badge/LazyVim-2E7DE9.svg?style=for-the-badge&logo=lazyvim&logoColor=white)
 
