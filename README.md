@@ -50,4 +50,4 @@ Ich bin **Software Engineering Student** und angehender **Backend-Entwickler**. 
   </a>
 </div>
 
-# Ad Maiorem Dei Gloriem
+# Ad Maiorem Dei Gloriam
