@@ -8,17 +8,17 @@
 
 ### 🇺🇸 About Me
 
-I am a **Software Engineering student** and an aspiring **Backend Developer**. My core focus lies in **Python** and **Go**, while I am currently expanding my horizons with **Java** and planning to dive into **TypeScript** soon.
+I am a **Software Engineering student** and an aspiring **Backend Developer**. My core focus lies in **Python** and **Go**, while I am currently expanding my horizons with **Java**.
 ---
 
 ### 🇧🇷 Sobre Mim
 
-Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em formação. Tenho foco principal em **Python** e **Go**, explorando atualmente o ecossistema **Java** e, futuramente, **TypeScript**.
+Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em formação. Tenho foco principal em **Python** e **Go**, explorando atualmente o ecossistema **Java**.
 ---
 
 ### 🇩🇪 Über mich
 
-Ich bin **Software Engineering Student** und angehender **Backend-Entwickler**. Mein Schwerpunkt liegt auf **Python** und **Go**, wobei ich gerade meine Kenntnisse in **Java** vertiefe und für die Zukunft **TypeScript** plane.
+Ich bin **Software Engineering Student** und angehender **Backend-Entwickler**. Mein Schwerpunkt liegt auf **Python** und **Go**, wobei ich gerade meine Kenntnisse in **Java** vertiefe.
 ---
 
 ### 🛠️ Tech Stack & Werkzeuge
