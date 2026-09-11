@@ -2,6 +2,10 @@
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D 2026" width="800">
+
+
+![Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=alvarolucio2007&theme=github_dark_default&show_icons=true)
+
 </div>
 
 ---
