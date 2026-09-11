@@ -29,19 +29,14 @@ Ich bin **Software Engineering Student** und angehender **Backend-Entwickler**. 
 
 #### 💻 Languages (Linguagens) (Programmiersprachen)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![My Languages](https://skillicons.dev/icons?i=go,python,java)](https://skillicons.dev)
 
 #### 🗄️ Infrastructure & Databases (Infraestrutura e Base de Dados) (Infrastruktur & Datenbanken)
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+[![My Infra](https://skillicons.dev/icons?i=docker,postgres,redis)](https://skillicons.dev)
 
 #### 🔧 Setup & OS
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![My Setup](https://skillicons.dev/icons?i=arch,neovim)](https://skillicons.dev)
 ---
 
 ### 🤝 Connect / Contato / Kontakt
