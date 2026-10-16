@@ -12,20 +12,19 @@
 
 ### 🇺🇸 About Me
 
-I am a **Software Engineering student** and an aspiring **Backend Developer**. My core focus lies in **Python** and **Go**, and I am planning to try **Rust** out soon.
+I am a **Software Engineering student** and an aspiring **Backend Developer**. My core focus lies in **Go** and **Python** , and I am planning to try **Rust** out soon.
 ---
 
 ### 🇧🇷 Sobre Mim
 
-Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em formação. Tenho foco principal em **Python** e **Go**, e estou planejando experimentar **Rust** em breve.
+Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em formação. Tenho foco principal em **Go** e **Python**, e estou planejando experimentar **Rust** em breve.
 ---
-
 
 ### 🛠️ Tech Stack
 
 #### 💻 Languages (Linguagens)
 
-[![My Languages](https://skillicons.dev/icons?i=go,python,java)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=go,python,cs,java)](https://skillicons.dev)
 
 #### 🗄️ Infrastructure & Databases (Infraestrutura e Base de Dados)
 
