@@ -24,14 +24,14 @@ Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em forma
 
 #### 💻 Languages (Linguagens)
 
-[![My Languages](https://skillicons.dev/icons?i=go,python,cs,java)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=go,python,cs,java&theme=dark)](https://skillicons.dev)
 
 #### 🗄️ Infrastructure & Databases (Infraestrutura e Base de Dados)
 
-[![My Infra](https://skillicons.dev/icons?i=docker,postgres,supabase,redis,github,githubactions)](https://skillicons.dev)
+[![My Infra](https://skillicons.dev/icons?i=docker,postgres,supabase,redis,github,githubactions&theme=dark)](https://skillicons.dev)
 
 #### 🔧 Setup & OS
-[![My Setup](https://skillicons.dev/icons?i=arch,neovim)](https://skillicons.dev)
+[![My Setup](https://skillicons.dev/icons?i=arch,neovim&theme=dark)](https://skillicons.dev)
 ---
 
 ### 🤝 Contact / Contato
