@@ -28,7 +28,7 @@ Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em forma
 
 #### 🗄️ Infrastructure & Databases (Infraestrutura e Base de Dados)
 
-[![My Infra](https://skillicons.dev/icons?i=docker,postgres,supabase,redis)](https://skillicons.dev)
+[![My Infra](https://skillicons.dev/icons?i=docker,postgres,supabase,redis,github,githubactions)](https://skillicons.dev)
 
 #### 🔧 Setup & OS
 [![My Setup](https://skillicons.dev/icons?i=arch,neovim)](https://skillicons.dev)
