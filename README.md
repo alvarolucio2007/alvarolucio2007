@@ -1,4 +1,4 @@
-# Hi there / Olá / Hallöchen! 👋
+# Hi there / Olá 👋
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D 2026" width="800">
@@ -12,34 +12,30 @@
 
 ### 🇺🇸 About Me
 
-I am a **Software Engineering student** and an aspiring **Backend Developer**. My core focus lies in **Python** and **Go**, while I am currently expanding my horizons with **Java**.
+I am a **Software Engineering student** and an aspiring **Backend Developer**. My core focus lies in **Python** and **Go**, and I am planning to try **Rust** out soon.
 ---
 
 ### 🇧🇷 Sobre Mim
 
-Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em formação. Tenho foco principal em **Python** e **Go**, explorando atualmente o ecossistema **Java**.
+Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em formação. Tenho foco principal em **Python** e **Go**, e estou planejando experimentar **Rust** em breve.
 ---
 
-### 🇩🇪 Über mich
 
-Ich bin **Software Engineering Student** und angehender **Backend-Entwickler**. Mein Schwerpunkt liegt auf **Python** und **Go**, wobei ich gerade meine Kenntnisse in **Java** vertiefe.
----
+### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack & Werkzeuge
-
-#### 💻 Languages (Linguagens) (Programmiersprachen)
+#### 💻 Languages (Linguagens)
 
 [![My Languages](https://skillicons.dev/icons?i=go,python,java)](https://skillicons.dev)
 
-#### 🗄️ Infrastructure & Databases (Infraestrutura e Base de Dados) (Infrastruktur & Datenbanken)
+#### 🗄️ Infrastructure & Databases (Infraestrutura e Base de Dados)
 
-[![My Infra](https://skillicons.dev/icons?i=docker,postgres,redis)](https://skillicons.dev)
+[![My Infra](https://skillicons.dev/icons?i=docker,postgres,supabase,redis)](https://skillicons.dev)
 
 #### 🔧 Setup & OS
 [![My Setup](https://skillicons.dev/icons?i=arch,neovim)](https://skillicons.dev)
 ---
 
-### 🤝 Connect / Contato / Kontakt
+### 🤝 Contact / Contato
 
 <div align="left">
   <a href="mailto:alvarolucio2007.dev@gmail.com">
