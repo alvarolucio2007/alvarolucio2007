@@ -23,15 +23,11 @@ Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em forma
 ### 🛠️ Tech Stack
 
 #### 💻 Languages (Linguagens)
-
-[![My Languages](https://skillicons.dev/icons?i=go,python,cs,java&theme=dark)](https://skillicons.dev)
-
+![icons](https://go-skill-icons.vercel.app/api/icons?i=golang,python,cs,java)
 #### 🗄️ Infrastructure & Databases (Infraestrutura e Base de Dados)
-
-[![My Infra](https://skillicons.dev/icons?i=docker,postgres,supabase,redis,github,githubactions&theme=dark)](https://skillicons.dev)
-
+![icons](https://go-skill-icons.vercel.app/api/icons?i=docker,postgresql,supabase,redis,github,githubactions)
 #### 🔧 Setup & OS
-[![My Setup](https://skillicons.dev/icons?i=arch,neovim&theme=dark)](https://skillicons.dev)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=cachyos,lazyvim)
 ---
 
 ### 🤝 Contact / Contato
