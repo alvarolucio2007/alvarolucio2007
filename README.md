@@ -1,7 +1,7 @@
 # Hi there / Olá 👋
+
 ![Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=alvarolucio2007&theme=github_dark_default&show_icons=true)
 
-</div>
 
 ---
 
