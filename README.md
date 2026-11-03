@@ -1,9 +1,4 @@
 # Hi there / Olá 👋
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D 2026" width="800">
-
-
 ![Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=alvarolucio2007&theme=github_dark_default&show_icons=true)
 
 </div>
@@ -23,7 +18,7 @@ Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em forma
 ### 🛠️ Tech Stack
 
 #### 💻 Languages (Linguagens)
-![icons](https://go-skill-icons.vercel.app/api/icons?i=golang,python,cs,java)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=golang,pythonjava)
 #### 🗄️ Infrastructure & Databases (Infraestrutura e Base de Dados)
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=docker,postgresql,supabase,redis,github,githubactions)
 #### 🔧 Setup & OS
