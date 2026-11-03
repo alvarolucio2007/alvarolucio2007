@@ -1,10 +1,5 @@
 # Hi there / Olá 👋
 
-![Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=alvarolucio2007&theme=github_dark_default&show_icons=true)
-
-
----
-
 ### 🇺🇸 About Me
 
 I am a **Software Engineering student** and an aspiring **Backend Developer**. My core focus lies in **Go** and **Python** , and I am planning to try **Rust** out soon.
@@ -18,11 +13,17 @@ Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em forma
 ### 🛠️ Tech Stack
 
 #### 💻 Languages (Linguagens)
-![icons](https://go-skill-icons.vercel.app/api/icons?i=golang,pythonjava)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=golang,python,java)
 #### 🗄️ Infrastructure & Databases (Infraestrutura e Base de Dados)
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=docker,postgresql,supabase,redis,github,githubactions)
 #### 🔧 Setup & OS
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=cachyos,zed)
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=alvarolucio2007&theme=github_dark_default&show_icons=true" alt="Stats" />
+</p>
+
 ---
 
 ### 🤝 Contact / Contato
