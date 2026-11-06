@@ -15,7 +15,7 @@ Sou graduando em **Engenharia de Software** e desenvolvedor **Backend** em forma
 #### 💻 Languages (Linguagens)
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=golang,python,java)
 #### 🗄️ Infrastructure & Databases (Infraestrutura e Base de Dados)
-![icons](https://go-skill-icons.vercel.app/api/icons?i=docker,postgresql,supabase,redis,github,githubactions)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=docker,postgresql,mongo,supabase,redis,github,githubactions)
 #### 🔧 Setup & OS
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=cachyos,zed)
 ---
